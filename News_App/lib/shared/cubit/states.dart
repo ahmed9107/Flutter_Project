@@ -1,1 +1,0 @@
-class AppChangeModeState extends AppStates {}
